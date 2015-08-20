@@ -1,0 +1,8 @@
+spring:
+    application:
+        name: Shian Spring Boot
+    datasource:
+        driverClassName: com.mysql.jdbc.Driver
+        url: jdbc:mysql://localhost/test
+server:
+    port: 8080
